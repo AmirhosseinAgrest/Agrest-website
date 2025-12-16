@@ -1,0 +1,99 @@
+@media print {
+  *,
+  *::before,
+  *::after {
+    background: transparent !important;
+    color: #000 !important;
+    box-shadow: none !important;
+    text-shadow: none !important;
+  }
+
+  body {
+    font-family: Georgia, 'Times New Roman', serif;
+    font-size: 12pt;
+    line-height: 1.5;
+    margin: 0;
+    padding: 20mm;
+  }
+
+  h1, h2, h3, h4, h5, h6 {
+    font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    page-break-after: avoid;
+    page-break-inside: avoid;
+  }
+
+  h1 { font-size: 24pt; margin-bottom: 12pt; }
+  h2 { font-size: 18pt; margin-top: 18pt; margin-bottom: 6pt; }
+  h3 { font-size: 14pt; margin-top: 12pt; margin-bottom: 6pt; }
+
+  p, ul, ol {
+    orphans: 3;
+    widows: 3;
+  }
+
+  ul, ol {
+    margin-left: 20pt;
+  }
+
+  a {
+    text-decoration: underline;
+  }
+
+  a[href^="http"]::after {
+    content: " (" attr(href) ")";
+    font-size: 10pt;
+    color: #666;
+  }
+
+  a[href^="#"]::after,
+  a[href^="javascript"]::after {
+    content: "";
+  }
+
+  img {
+    max-width: 100% !important;
+    page-break-inside: avoid;
+  }
+
+  header,
+  footer,
+  nav,
+  .no-print,
+  button,
+  [role="navigation"],
+  [aria-hidden="true"] {
+    display: none !important;
+  }
+
+  article {
+    page-break-before: always;
+  }
+
+  .print-break-before {
+    page-break-before: always;
+  }
+
+  .print-break-after {
+    page-break-after: always;
+  }
+
+  .print-avoid-break {
+    page-break-inside: avoid;
+  }
+
+  @page {
+    margin: 20mm;
+    size: A4;
+  }
+
+  @page :first {
+    margin-top: 30mm;
+  }
+}
+
+@media print and (color) {
+  * {
+    -webkit-print-color-adjust: exact;
+    print-color-adjust: exact;
+  }
+}

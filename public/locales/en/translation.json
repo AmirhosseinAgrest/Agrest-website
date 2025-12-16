@@ -1,0 +1,349 @@
+{
+    "brand": {
+        "name": "Agrest",
+        "tagline": "Premium. Minimal. Elegant.",
+        "description": "Official personal website of Amirhossein Agrest"
+    },
+    "nav": {
+        "home": "Home",
+        "about": "About",
+        "projects": "Projects",
+        "services": "Services",
+        "blog": "Blog",
+        "contact": "Contact",
+        "resume": "Resume"
+    },
+    "hero": {
+        "greeting": "Hello, I'm",
+        "name": "Amirhossein Agrest",
+        "title": "Software Engineer & Designer",
+        "subtitle": "I craft premium digital experiences with clean architecture and elegant design",
+        "cta": {
+            "primary": "View My Work",
+            "secondary": "Get in Touch"
+        },
+        "scroll": "Scroll to explore"
+    },
+    "about": {
+        "title": "About Me",
+        "subtitle": "The story behind the code",
+        "intro": "I'm a passionate software engineer with a deep love for clean code, elegant architecture, and thoughtful design.",
+        "story": {
+            "title": "My Story",
+            "content": "With years of experience in software development, I've dedicated myself to creating digital products that are not only functional but also beautiful and intuitive."
+        },
+        "values": {
+            "title": "My Values",
+            "description": "The principles that guide my work and define my approach to software development.",
+            "quality": {
+                "title": "Quality First",
+                "description": "Every line of code is written with care and purpose"
+            },
+            "simplicity": {
+                "title": "Simplicity",
+                "description": "Complex problems deserve elegant, simple solutions"
+            },
+            "innovation": {
+                "title": "Innovation",
+                "description": "Always exploring new technologies and approaches"
+            },
+            "collaboration": {
+                "title": "Collaboration",
+                "description": "Great products are built by great teams"
+            }
+        },
+        "skills": {
+            "title": "Skills & Expertise",
+            "description": "Technologies and tools I work with to bring ideas to life."
+        }
+    },
+    "experience": {
+        "title": "Experience",
+        "subtitle": "My professional journey",
+        "present": "Present",
+        "years": "years",
+        "viewMore": "View Details",
+        "remote": "Remote",
+        "current": "Current",
+        "exp1": {
+            "description": "Leading frontend architecture and building premium multilingual systems for Agrest Studio.",
+            "highlight1": "Designed and built a premium multilingual personal website with a custom design system",
+            "highlight2": "Developed reusable UI components and animation patterns for future Agrest projects",
+            "highlight3": "Architected a scalable folder structure and internationalization system"
+        },
+        "exp2": {
+            "description": "Created NexaOS, a fully interactive web‑based operating system with modular UI architecture.",
+            "highlight1": "Built a fully interactive web‑based operating system with draggable windows and taskbar",
+            "highlight2": "Created a modular UI architecture for scalable desktop‑style applications",
+            "highlight3": "Published the project as open‑source on GitHub"
+        },
+        "exp3": {
+            "description": "Developing blockchain systems, wallets, and crypto‑based applications for AgrestChan.",
+            "highlight1": "Implemented a custom blockchain inspired by Bitcoin with blocks, hashing, and mining logic",
+            "highlight2": "Designed a web wallet and browser extension wallet for managing blockchain accounts",
+            "highlight3": "Built a simulated crypto exchange with staking, trading, and price engine"
+        },
+        "exp4": {
+            "description": "Building fullstack products, AI tools, and real‑world applications across multiple domains.",
+            "highlight1": "Developed 10+ real projects including messaging apps, e‑commerce systems, mini‑games, and AI tools",
+            "highlight2": "Built platforms such as Talkify, Velora Shop, AGgram, BizMate, EduVerse, and more",
+            "highlight3": "Created experimental AI and computer‑vision tools such as Finger Control"
+        }
+    },
+    "projects": {
+        "title": "Projects",
+        "subtitle": "Selected works and case studies",
+        "viewProject": "View Project",
+        "viewCode": "View Code",
+        "liveDemo": "Live Demo",
+        "allProjects": "All Projects",
+        "categories": {
+            "all": "All",
+            "web": "Web Apps",
+            "mobile": "Mobile",
+            "fullstack": "Full Stack",
+            "design": "Design",
+            "backend": "Backend"
+        },
+        "techStack": "Technologies Used",
+        "featured": "Featured"
+    },
+    "services": {
+        "title": "Services",
+        "subtitle": "How I can help you",
+        "cta": "Let's Work Together",
+        "list": {
+            "development": {
+                "title": "Web Development",
+                "description": "Modern, fast, and scalable web applications built with cutting-edge technologies"
+            },
+            "design": {
+                "title": "UI/UX Design",
+                "description": "Beautiful, intuitive interfaces that delight users and drive engagement"
+            },
+            "consulting": {
+                "title": "Technical Consulting",
+                "description": "Expert guidance on architecture, technology choices, and best practices"
+            },
+            "architecture": {
+                "title": "System Architecture",
+                "description": "Scalable and maintainable system designs for complex applications"
+            }
+        }
+    },
+    "testimonials": {
+        "title": "Testimonials",
+        "subtitle": "What clients and colleagues say",
+        "test-1": "Amirhossein has a strong understanding of modern frontend architecture. His attention to clean code and UI consistency makes working with him smooth and enjoyable.",
+        "test-2": "His ability to design minimal, elegant interfaces while keeping the codebase modular and scalable is impressive. Amirhossein approaches every challenge with clarity and precision.",
+        "test-3": "I’ve seen his work evolve rapidly. His dedication to mastering React, TypeScript, and Tailwind shows in the quality of his components and design system.",
+        "test-4": "Amirhossein has a rare combination of technical discipline and aesthetic sensitivity. His approach to building UI systems is thoughtful and future‑proof.",
+        "test-5": "He consistently delivers clean, readable code and pays close attention to user experience. His work reflects a deep passion for frontend craftsmanship.",
+        "test-6": "Amirhossein is always improving, always learning, and always pushing for better solutions. His commitment to quality makes him a valuable collaborator."
+    },
+    "achievements": {
+        "title": "Achievements",
+        "subtitle": "Certifications and awards",
+        "verified": "Verified",
+        "viewCredential": "View Credential"
+    },
+    "gallery": {
+        "title": "Gallery",
+        "subtitle": "Visual showcase of my work",
+        "viewAll": "View All"
+    },
+    "faq": {
+        "title": "FAQ",
+        "subtitle": "Frequently asked questions",
+        "items": {
+            "availability": {
+                "question": "Are you available for freelance work?",
+                "answer": "Yes, I'm open to interesting freelance projects. Feel free to reach out to discuss your needs."
+            },
+            "timeline": {
+                "question": "What's your typical project timeline?",
+                "answer": "It depends on the project scope, but most projects take 4-12 weeks from start to finish."
+            },
+            "technologies": {
+                "question": "What technologies do you work with?",
+                "answer": "I primarily work with React, TypeScript, Node.js, and modern web technologies. I'm always learning new tools."
+            },
+            "remote": {
+                "question": "Do you work remotely?",
+                "answer": "Yes, I work with clients worldwide. Time zones are never a barrier to great collaboration."
+            }
+        }
+    },
+    "blog": {
+        "title": "Blog",
+        "subtitle": "Thoughts, tutorials, and insights",
+        "readMore": "Read More",
+        "readTime": "min read",
+        "allPosts": "All Posts",
+        "categories": "Categories",
+        "recentPosts": "Recent Posts",
+        "noPosts": "No posts found"
+    },
+    "resume": {
+        "title": "Resume",
+        "subtitle": "My professional background",
+        "download": "Download PDF",
+        "print": "Print",
+        "sections": {
+            "experience": "Work Experience",
+            "education": "Education",
+            "skills": "Skills",
+            "languages": "Languages",
+            "certifications": "Certifications"
+        }
+    },
+    "contact": {
+        "title": "Contact",
+        "subtitle": "Let's start a conversation",
+        "intro": "Have a project in mind or just want to say hello? I'd love to hear from you.",
+        "form": {
+            "name": "Your Name",
+            "namePlaceholder": "John Doe",
+            "email": "Email Address",
+            "emailPlaceholder": "john@example.com",
+            "subject": "Subject",
+            "subjectPlaceholder": "Project Inquiry",
+            "message": "Message",
+            "messagePlaceholder": "Tell me about your project...",
+            "send": "Send Message",
+            "sending": "Sending...",
+            "success": "Message sent successfully! I'll get back to you soon.",
+            "error": "Something went wrong. Please try again."
+        },
+        "info": {
+            "email": "Email",
+            "location": "Location",
+            "availability": "Availability",
+            "availableStatus": "Available for new projects"
+        },
+        "social": {
+            "title": "Connect with me"
+        }
+    },
+    "footer": {
+        "rights": "All rights reserved",
+        "madeWith": "Made with",
+        "by": "by",
+        "links": {
+            "privacy": "Privacy Policy",
+            "terms": "Terms of Service"
+        }
+    },
+    "common": {
+        "loading": "Loading...",
+        "error": "Error",
+        "notFound": "Not Found",
+        "backHome": "Back to Home",
+        "learnMore": "Learn More",
+        "viewAll": "View All",
+        "close": "Close",
+        "open": "Open",
+        "menu": "Menu",
+        "search": "Search",
+        "language": "Language",
+        "theme": "Theme"
+    },
+    "404": {
+        "title": "Page Not Found",
+        "subtitle": "The page you're looking for doesn't exist or has been moved.",
+        "cta": "Go Home"
+    },
+    "meta": {
+        "home": {
+            "title": "Agrest — Amirhossein Agrest",
+            "description": "Official personal website of Amirhossein Agrest. Software Engineer crafting premium digital experiences."
+        },
+        "about": {
+            "title": "About — Agrest",
+            "description": "Learn about Amirhossein Agrest, his journey, values, and expertise in software development."
+        },
+        "projects": {
+            "title": "Projects — Agrest",
+            "description": "Explore selected works and case studies by Amirhossein Agrest."
+        },
+        "contact": {
+            "title": "Contact — Agrest",
+            "description": "Get in touch with Amirhossein Agrest for projects, collaborations, or inquiries."
+        }
+    },
+    "stats": {
+        "yearsExperience": "Years of Focused Development",
+        "projectsCompleted": "Projects & Systems Built",
+        "openSource": "Open‑Source Contributions",
+        "technologies": "Technologies"
+    },
+    "skills": {
+        "title": "Skills & Technologies",
+        "categories": {
+            "frontend": "Frontend",
+            "backend": "Backend",
+            "mobile": "Mobile",
+            "database": "Database",
+            "devops": "DevOps",
+            "design": "Design",
+            "tools": "Tools"
+        }
+    },
+    "philosophy": {
+        "title": "Philosophy",
+        "subtitle": "My approach to software development",
+        "principles": {
+            "title": "Core Principles",
+            "clean": {
+                "title": "Clean Code",
+                "description": "Code should be readable, maintainable, and elegant. Every function, every module should tell a clear story."
+            },
+            "minimal": {
+                "title": "Minimalism",
+                "description": "Less is more. Every element should have a purpose. Complexity is the enemy of reliability."
+            },
+            "user": {
+                "title": "User-Centric",
+                "description": "Technology should serve people, not the other way around. The best interface is the one you don't notice."
+            },
+            "continuous": {
+                "title": "Continuous Learning",
+                "description": "Stay curious, keep learning, never stop growing. The tech world evolves, and so should we."
+            }
+        },
+        "quote": "Great software is not just about writing code—it's about solving problems elegantly and creating experiences that delight."
+    },
+    "accessibility": {
+        "skipToContent": "Skip to main content",
+        "openMenu": "Open menu",
+        "closeMenu": "Close menu",
+        "loading": "Loading content",
+        "error": "An error occurred",
+        "previousSlide": "Previous slide",
+        "nextSlide": "Next slide",
+        "openLightbox": "Open full image",
+        "closeLightbox": "Close lightbox"
+    },
+    "seo": {
+        "home": {
+            "title": "Agrest — Amirhossein Agrest | Software Engineer",
+            "description": "Official personal website of Amirhossein Agrest. Software Engineer crafting premium digital experiences with clean architecture and elegant design."
+        },
+        "about": {
+            "title": "About — Amirhossein Agrest",
+            "description": "Learn about Amirhossein Agrest, his journey, values, skills, and expertise in software development and design."
+        },
+        "projects": {
+            "title": "Projects — Agrest Portfolio",
+            "description": "Explore selected works and case studies by Amirhossein Agrest. Web applications, mobile apps, and design systems."
+        },
+        "blog": {
+            "title": "Blog — Agrest",
+            "description": "Thoughts, tutorials, and insights on software development, design, and technology by Amirhossein Agrest."
+        },
+        "contact": {
+            "title": "Contact — Get in Touch",
+            "description": "Get in touch with Amirhossein Agrest for projects, collaborations, or inquiries. Available for freelance work."
+        }
+    }
+}

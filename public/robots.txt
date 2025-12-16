@@ -1,0 +1,10 @@
+# Robots.txt for Agrest Website
+
+User-agent: *
+Allow: /
+
+# Sitemap
+Sitemap: https://agrest.netlify.app/sitemap.xml
+
+# Disallow admin or private paths (if any)
+# Disallow: /admin/

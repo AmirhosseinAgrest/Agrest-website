@@ -1,0 +1,349 @@
+{
+    "brand": {
+        "name": "Agrest",
+        "tagline": "高端 · 极简 · 优雅",
+        "description": "Amirhossein Agrest 的个人官方网站"
+    },
+    "nav": {
+        "home": "首页",
+        "about": "关于",
+        "projects": "项目",
+        "services": "服务",
+        "blog": "博客",
+        "contact": "联系",
+        "resume": "简历"
+    },
+    "hero": {
+        "greeting": "你好，我是",
+        "name": "Amirhossein Agrest",
+        "title": "软件工程师 & 设计师",
+        "subtitle": "我以干净的架构和优雅的设计打造高端数字体验",
+        "cta": {
+            "primary": "查看我的作品",
+            "secondary": "联系我"
+        },
+        "scroll": "向下滚动探索"
+    },
+    "about": {
+        "title": "关于我",
+        "subtitle": "代码背后的故事",
+        "intro": "我是一名充满热情的软件工程师，热爱干净的代码、优雅的架构和精心设计的体验。",
+        "story": {
+            "title": "我的故事",
+            "content": "凭借多年的软件开发经验，我致力于创造不仅功能完善，而且美观直观的数字产品。"
+        },
+        "values": {
+            "title": "我的价值观",
+            "description": "指导我工作并塑造我软件开发方法的原则。",
+            "quality": {
+                "title": "质量至上",
+                "description": "每一行代码都经过认真思考和精心编写"
+            },
+            "simplicity": {
+                "title": "简洁",
+                "description": "复杂的问题值得用优雅、简单的方式解决"
+            },
+            "innovation": {
+                "title": "创新",
+                "description": "不断探索新技术和新方法"
+            },
+            "collaboration": {
+                "title": "协作",
+                "description": "优秀的产品来自优秀的团队"
+            }
+        },
+        "skills": {
+            "title": "技能与专长",
+            "description": "我使用的技术和工具，用来将想法变为现实。"
+        }
+    },
+    "experience": {
+        "title": "工作经验",
+        "subtitle": "我的职业旅程",
+        "present": "至今",
+        "years": "年",
+        "viewMore": "查看详情",
+        "remote": "远程",
+        "current": "当前",
+        "exp1": {
+            "description": "负责 Agrest Studio 的前端架构并构建高质量的多语言系统。",
+            "highlight1": "设计并构建了一个带有自定义设计系统的多语言个人网站",
+            "highlight2": "开发可复用的 UI 组件和动画模式，用于未来的 Agrest 项目",
+            "highlight3": "设计了可扩展的文件结构和国际化系统"
+        },
+        "exp2": {
+            "description": "创建 NexaOS，一个完全交互式的基于 Web 的操作系统，具有模块化 UI 架构。",
+            "highlight1": "构建了一个带可拖拽窗口和任务栏的 Web 操作系统",
+            "highlight2": "创建模块化 UI 架构以支持可扩展的桌面式应用",
+            "highlight3": "将项目以开源形式发布在 GitHub 上"
+        },
+        "exp3": {
+            "description": "为 AgrestChan 开发区块链系统、钱包和加密应用。",
+            "highlight1": "实现了一个受比特币启发的自定义区块链，包括区块、哈希和挖矿逻辑",
+            "highlight2": "设计了 Web 钱包和浏览器扩展钱包，用于管理区块链账户",
+            "highlight3": "构建了一个模拟交易所，包含质押、交易和价格引擎"
+        },
+        "exp4": {
+            "description": "构建全栈产品、AI 工具和多领域的真实应用。",
+            "highlight1": "开发了 10+ 个真实项目，包括聊天应用、电商系统、小游戏和 AI 工具",
+            "highlight2": "构建了 Talkify、Velora Shop、AGgram、BizMate、EduVerse 等平台",
+            "highlight3": "创建了 Finger Control 等实验性 AI 和计算机视觉工具"
+        }
+    },
+    "projects": {
+        "title": "项目",
+        "subtitle": "精选作品与案例研究",
+        "viewProject": "查看项目",
+        "viewCode": "查看代码",
+        "liveDemo": "在线演示",
+        "allProjects": "所有项目",
+        "categories": {
+            "all": "全部",
+            "web": "网页应用",
+            "mobile": "移动端",
+            "fullstack": "全栈",
+            "design": "设计",
+            "backend": "后端"
+        },
+        "techStack": "使用的技术",
+        "featured": "精选"
+    },
+    "services": {
+        "title": "服务",
+        "subtitle": "我能为你做什么",
+        "cta": "让我们合作吧",
+        "list": {
+            "development": {
+                "title": "网页开发",
+                "description": "使用前沿技术构建现代、快速、可扩展的网页应用"
+            },
+            "design": {
+                "title": "UI/UX 设计",
+                "description": "美观直观的界面，带来愉悦的用户体验"
+            },
+            "consulting": {
+                "title": "技术咨询",
+                "description": "在架构、技术选择和最佳实践方面提供专业指导"
+            },
+            "architecture": {
+                "title": "系统架构",
+                "description": "为复杂应用设计可扩展、可维护的系统架构"
+            }
+        }
+    },
+    "testimonials": {
+        "title": "评价",
+        "subtitle": "客户和同事的评价",
+        "test-1": "Amirhossein 对现代前端架构有着深刻的理解。他对干净代码和界面一致性的重视，使与他合作变得顺畅而愉快。",
+        "test-2": "他能够设计简约而优雅的界面，同时保持代码库的模块化和可扩展性，令人印象深刻。Amirhossein 以清晰和精准的方式应对每一个挑战。",
+        "test-3": "我见证了他工作的快速提升。他对 React、TypeScript 和 Tailwind 的专注体现在他组件和设计系统的质量上。",
+        "test-4": "Amirhossein 兼具技术纪律和审美敏感度。他构建 UI 系统的方法深思熟虑且具有前瞻性。",
+        "test-5": "他始终编写干净、易读的代码，并非常关注用户体验。他的作品体现了他对前端工艺的深厚热情。",
+        "test-6": "Amirhossein 不断进步、不断学习，并持续追求更好的解决方案。他对质量的坚持使他成为一位宝贵的合作伙伴。"
+    },
+    "achievements": {
+        "title": "成就",
+        "subtitle": "认证与奖项",
+        "verified": "已验证",
+        "viewCredential": "查看凭证"
+    },
+    "gallery": {
+        "title": "画廊",
+        "subtitle": "我的作品视觉展示",
+        "viewAll": "查看全部"
+    },
+    "faq": {
+        "title": "常见问题",
+        "subtitle": "常见的疑问与解答",
+        "items": {
+            "availability": {
+                "question": "你接受自由职业项目吗？",
+                "answer": "是的，我愿意参与有趣的自由职业项目。欢迎联系我讨论你的需求。"
+            },
+            "timeline": {
+                "question": "你通常的项目周期是多久？",
+                "answer": "取决于项目范围，大多数项目从开始到完成大约需要 4–12 周。"
+            },
+            "technologies": {
+                "question": "你主要使用哪些技术？",
+                "answer": "我主要使用 React、TypeScript、Node.js 以及现代 Web 技术，并持续学习新工具。"
+            },
+            "remote": {
+                "question": "你可以远程工作吗？",
+                "answer": "可以，我与全球客户合作，时区从来不是问题。"
+            }
+        }
+    },
+    "blog": {
+        "title": "博客",
+        "subtitle": "思考、教程与见解",
+        "readMore": "阅读更多",
+        "readTime": "分钟阅读",
+        "allPosts": "所有文章",
+        "categories": "分类",
+        "recentPosts": "最新文章",
+        "noPosts": "未找到文章"
+    },
+    "resume": {
+        "title": "简历",
+        "subtitle": "我的专业背景",
+        "download": "下载 PDF",
+        "print": "打印",
+        "sections": {
+            "experience": "工作经验",
+            "education": "教育背景",
+            "skills": "技能",
+            "languages": "语言",
+            "certifications": "认证"
+        }
+    },
+    "contact": {
+        "title": "联系",
+        "subtitle": "让我们开始交流",
+        "intro": "有项目想法或只是想打个招呼？我很乐意听到你的消息。",
+        "form": {
+            "name": "你的名字",
+            "namePlaceholder": "John Doe",
+            "email": "电子邮箱",
+            "emailPlaceholder": "john@example.com",
+            "subject": "主题",
+            "subjectPlaceholder": "项目咨询",
+            "message": "消息",
+            "messagePlaceholder": "告诉我你的项目想法…",
+            "send": "发送消息",
+            "sending": "发送中…",
+            "success": "消息已成功发送！我会尽快回复你。",
+            "error": "出现错误，请稍后再试。"
+        },
+        "info": {
+            "email": "邮箱",
+            "location": "位置",
+            "availability": "可用性",
+            "availableStatus": "可接受新项目"
+        },
+        "social": {
+            "title": "与我联系"
+        }
+    },
+    "footer": {
+        "rights": "版权所有",
+        "madeWith": "制作于",
+        "by": "作者",
+        "links": {
+            "privacy": "隐私政策",
+            "terms": "服务条款"
+        }
+    },
+    "common": {
+        "loading": "加载中…",
+        "error": "错误",
+        "notFound": "未找到",
+        "backHome": "返回首页",
+        "learnMore": "了解更多",
+        "viewAll": "查看全部",
+        "close": "关闭",
+        "open": "打开",
+        "menu": "菜单",
+        "search": "搜索",
+        "language": "语言",
+        "theme": "主题"
+    },
+    "404": {
+        "title": "页面未找到",
+        "subtitle": "你正在寻找的页面不存在或已被移动。",
+        "cta": "返回首页"
+    },
+    "meta": {
+        "home": {
+            "title": "Agrest — Amirhossein Agrest",
+            "description": "Amirhossein Agrest 的个人官方网站。软件工程师，打造高端数字体验。"
+        },
+        "about": {
+            "title": "关于 — Agrest",
+            "description": "了解 Amirhossein Agrest 的经历、价值观和软件开发专业技能。"
+        },
+        "projects": {
+            "title": "项目 — Agrest",
+            "description": "探索 Amirhossein Agrest 的精选作品与案例研究。"
+        },
+        "contact": {
+            "title": "联系 — Agrest",
+            "description": "联系 Amirhossein Agrest 进行项目合作或咨询。"
+        }
+    },
+    "stats": {
+        "yearsExperience": "专注开发的年数",
+        "projectsCompleted": "完成的项目与系统",
+        "openSource": "开源贡献",
+        "technologies": "技术栈"
+    },
+    "skills": {
+        "title": "技能与技术",
+        "categories": {
+            "frontend": "前端",
+            "backend": "后端",
+            "mobile": "移动端",
+            "database": "数据库",
+            "devops": "DevOps",
+            "design": "设计",
+            "tools": "工具"
+        }
+    },
+    "philosophy": {
+        "title": "理念",
+        "subtitle": "我对软件开发的思考方式",
+        "principles": {
+            "title": "核心原则",
+            "clean": {
+                "title": "干净代码",
+                "description": "代码应当可读、可维护且优雅。每个函数、每个模块都应讲述清晰的故事。"
+            },
+            "minimal": {
+                "title": "极简主义",
+                "description": "少即是多。每个元素都应有其意义。复杂性是可靠性的敌人。"
+            },
+            "user": {
+                "title": "以用户为中心",
+                "description": "技术应服务于人，而不是相反。最好的界面是让人察觉不到的界面。"
+            },
+            "continuous": {
+                "title": "持续学习",
+                "description": "保持好奇，不断学习，持续成长。技术世界在进化，我们也应如此。"
+            }
+        },
+        "quote": "优秀的软件不仅仅是写代码，更是优雅地解决问题并创造令人愉悦的体验。"
+    },
+    "accessibility": {
+        "skipToContent": "跳到主要内容",
+        "openMenu": "打开菜单",
+        "closeMenu": "关闭菜单",
+        "loading": "正在加载内容",
+        "error": "发生错误",
+        "previousSlide": "上一张",
+        "nextSlide": "下一张",
+        "openLightbox": "查看大图",
+        "closeLightbox": "关闭大图"
+    },
+    "seo": {
+        "home": {
+            "title": "Agrest — Amirhossein Agrest | 软件工程师",
+            "description": "Amirhossein Agrest 的个人官方网站。以干净架构与优雅设计打造高端数字体验。"
+        },
+        "about": {
+            "title": "关于 — Amirhossein Agrest",
+            "description": "了解 Amirhossein Agrest 的经历、价值观、技能与软件开发经验。"
+        },
+        "projects": {
+            "title": "项目 — Agrest 作品集",
+            "description": "探索 Amirhossein Agrest 的精选作品：网页应用、移动应用与设计系统。"
+        },
+        "blog": {
+            "title": "博客 — Agrest",
+            "description": "关于软件开发、设计与技术的思考、教程与见解。"
+        },
+        "contact": {
+            "title": "联系 — 保持联络",
+            "description": "联系 Amirhossein Agrest 进行项目合作、咨询或交流。他可接受自由职业项目。"
+        }
+    }
+}

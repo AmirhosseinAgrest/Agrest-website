@@ -1,0 +1,349 @@
+{
+  "brand": {
+    "name": "Agrest",
+    "tagline": "Premium. Minimal. Élégant.",
+    "description": "Site officiel d'Amirhossein Agrest"
+  },
+  "nav": {
+    "home": "Accueil",
+    "about": "À propos",
+    "projects": "Projets",
+    "services": "Services",
+    "blog": "Blog",
+    "contact": "Contact",
+    "resume": "CV"
+  },
+  "hero": {
+    "greeting": "Bonjour, je suis",
+    "name": "Amirhossein Agrest",
+    "title": "Ingénieur Logiciel & Designer",
+    "subtitle": "Je crée des expériences numériques premium avec une architecture propre et un design élégant",
+    "cta": {
+      "primary": "Voir Mes Travaux",
+      "secondary": "Me Contacter"
+    },
+    "scroll": "Défiler pour explorer"
+  },
+  "about": {
+    "title": "À Propos",
+    "subtitle": "L'histoire derrière le code",
+    "intro": "Je suis un ingénieur logiciel passionné avec un amour profond pour le code propre, l'architecture élégante et le design réfléchi.",
+    "story": {
+      "title": "Mon Histoire",
+      "content": "Avec des années d'expérience en développement logiciel, je me suis consacré à créer des produits numériques qui sont non seulement fonctionnels mais aussi beaux et intuitifs."
+    },
+    "values": {
+      "title": "Mes Valeurs",
+      "description": "Les principes qui guident mon travail et définissent mon approche du développement logiciel.",
+      "quality": {
+        "title": "Qualité d'Abord",
+        "description": "Chaque ligne de code est écrite avec soin et intention"
+      },
+      "simplicity": {
+        "title": "Simplicité",
+        "description": "Les problèmes complexes méritent des solutions élégantes et simples"
+      },
+      "innovation": {
+        "title": "Innovation",
+        "description": "Toujours explorer de nouvelles technologies et approches"
+      },
+      "collaboration": {
+        "title": "Collaboration",
+        "description": "Les grands produits sont construits par de grandes équipes"
+      }
+    },
+    "skills": {
+      "title": "Compétences & Expertise",
+      "description": "Les technologies et outils avec lesquels je travaille pour donner vie aux idées."
+    }
+  },
+  "experience": {
+    "title": "Expérience",
+    "subtitle": "Mon parcours professionnel",
+    "present": "Présent",
+    "years": "ans",
+    "viewMore": "Voir les Détails",
+    "remote": "À distance",
+    "current": "Actuel",
+    "exp1": {
+      "description": "Direction de l’architecture frontend et création de systèmes multilingues premium pour Agrest Studio.",
+      "highlight1": "Conception et développement d’un site personnel multilingue avec un design system personnalisé",
+      "highlight2": "Développement de composants UI réutilisables et de modèles d’animation pour les futurs projets Agrest",
+      "highlight3": "Architecture d’une structure de dossiers évolutive et d’un système d’internationalisation"
+    },
+    "exp2": {
+      "description": "Création de NexaOS, un système d’exploitation Web entièrement interactif avec une architecture UI modulaire.",
+      "highlight1": "Développement d’un OS Web interactif avec fenêtres déplaçables et barre des tâches",
+      "highlight2": "Création d’une architecture UI modulaire pour des applications de type bureau évolutives",
+      "highlight3": "Publication du projet en open‑source sur GitHub"
+    },
+    "exp3": {
+      "description": "Développement de systèmes blockchain, portefeuilles et applications crypto pour AgrestChan.",
+      "highlight1": "Implémentation d’une blockchain personnalisée inspirée de Bitcoin avec blocs, hachage et logique de minage",
+      "highlight2": "Conception d’un portefeuille Web et d’une extension navigateur pour gérer les comptes blockchain",
+      "highlight3": "Création d’un échange crypto simulé avec staking, trading et moteur de prix"
+    },
+    "exp4": {
+      "description": "Création de produits fullstack, outils IA et applications réelles dans divers domaines.",
+      "highlight1": "Développement de plus de 10 projets réels, dont messageries, e‑commerce, mini‑jeux et outils IA",
+      "highlight2": "Création de plateformes telles que Talkify, Velora Shop, AGgram, BizMate, EduVerse, etc.",
+      "highlight3": "Développement d’outils expérimentaux d’IA et de vision par ordinateur comme Finger Control"
+    }
+  },
+  "projects": {
+    "title": "Projets",
+    "subtitle": "Travaux sélectionnés et études de cas",
+    "viewProject": "Voir le Projet",
+    "viewCode": "Voir le Code",
+    "liveDemo": "Démo Live",
+    "allProjects": "Tous les Projets",
+    "categories": {
+      "all": "Tous",
+      "web": "Apps Web",
+      "mobile": "Mobile",
+      "fullstack": "Full Stack",
+      "design": "Design",
+      "backend": "Backend"
+    },
+    "techStack": "Technologies Utilisées",
+    "featured": "En Vedette"
+  },
+  "services": {
+    "title": "Services",
+    "subtitle": "Comment je peux vous aider",
+    "cta": "Travaillons Ensemble",
+    "list": {
+      "development": {
+        "title": "Développement Web",
+        "description": "Applications web modernes, rapides et évolutives avec des technologies de pointe"
+      },
+      "design": {
+        "title": "Design UI/UX",
+        "description": "Interfaces belles et intuitives qui enchantent les utilisateurs"
+      },
+      "consulting": {
+        "title": "Conseil Technique",
+        "description": "Conseils d'experts sur l'architecture, les choix technologiques et les meilleures pratiques"
+      },
+      "architecture": {
+        "title": "Architecture Système",
+        "description": "Conceptions de systèmes évolutifs et maintenables pour applications complexes"
+      }
+    }
+  },
+  "testimonials": {
+    "title": "Témoignages",
+    "subtitle": "Ce que disent les clients et collègues",
+    "test-1": "Amirhossein possède une compréhension approfondie de l’architecture frontend moderne. Son attention au code propre et à la cohérence de l’UI rend la collaboration fluide et agréable.",
+    "test-2": "Sa capacité à concevoir des interfaces minimalistes et élégantes tout en gardant une base de code modulaire et évolutive est impressionnante. Amirhossein aborde chaque défi avec clarté et précision.",
+    "test-3": "J’ai vu son travail évoluer rapidement. Son engagement à maîtriser React, TypeScript et Tailwind se reflète dans la qualité de ses composants et de son design system.",
+    "test-4": "Amirhossein possède une combinaison rare de discipline technique et de sens esthétique. Son approche de la création de systèmes UI est réfléchie et tournée vers l’avenir.",
+    "test-5": "Il livre constamment un code propre et lisible, tout en accordant une grande attention à l’expérience utilisateur. Son travail reflète une passion profonde pour l’art du frontend.",
+    "test-6": "Amirhossein progresse constamment, apprend sans cesse et cherche toujours de meilleures solutions. Son engagement envers la qualité fait de lui un collaborateur précieux."
+  },
+  "achievements": {
+    "title": "Réalisations",
+    "subtitle": "Certifications et récompenses",
+    "verified": "Vérifié",
+    "viewCredential": "Voir le Diplôme"
+  },
+  "gallery": {
+    "title": "Galerie",
+    "subtitle": "Vitrine visuelle de mon travail",
+    "viewAll": "Voir Tout"
+  },
+  "faq": {
+    "title": "FAQ",
+    "subtitle": "Questions fréquemment posées",
+    "items": {
+      "availability": {
+        "question": "Êtes-vous disponible pour du travail freelance?",
+        "answer": "Oui, je suis ouvert aux projets freelance intéressants. N'hésitez pas à me contacter."
+      },
+      "timeline": {
+        "question": "Quel est le délai typique d'un projet?",
+        "answer": "Cela dépend de la portée du projet, mais la plupart prennent 4 à 12 semaines."
+      },
+      "technologies": {
+        "question": "Avec quelles technologies travaillez-vous?",
+        "answer": "Je travaille principalement avec React, TypeScript, Node.js et les technologies web modernes."
+      },
+      "remote": {
+        "question": "Travaillez-vous à distance?",
+        "answer": "Oui, je travaille avec des clients du monde entier. Les fuseaux horaires ne sont jamais un obstacle."
+      }
+    }
+  },
+  "blog": {
+    "title": "Blog",
+    "subtitle": "Réflexions, tutoriels et insights",
+    "readMore": "Lire Plus",
+    "readTime": "min de lecture",
+    "allPosts": "Tous les Articles",
+    "categories": "Catégories",
+    "recentPosts": "Articles Récents",
+    "noPosts": "Aucun article trouvé"
+  },
+  "resume": {
+    "title": "CV",
+    "subtitle": "Mon parcours professionnel",
+    "download": "Télécharger PDF",
+    "print": "Imprimer",
+    "sections": {
+      "experience": "Expérience Professionnelle",
+      "education": "Formation",
+      "skills": "Compétences",
+      "languages": "Langues",
+      "certifications": "Certifications"
+    }
+  },
+  "contact": {
+    "title": "Contact",
+    "subtitle": "Commençons une conversation",
+    "intro": "Vous avez un projet en tête ou voulez simplement dire bonjour? J'aimerais avoir de vos nouvelles.",
+    "form": {
+      "name": "Votre Nom",
+      "namePlaceholder": "Jean Dupont",
+      "email": "Adresse Email",
+      "emailPlaceholder": "jean@exemple.com",
+      "subject": "Sujet",
+      "subjectPlaceholder": "Demande de Projet",
+      "message": "Message",
+      "messagePlaceholder": "Parlez-moi de votre projet...",
+      "send": "Envoyer le Message",
+      "sending": "Envoi en cours...",
+      "success": "Message envoyé avec succès! Je vous répondrai bientôt.",
+      "error": "Une erreur s'est produite. Veuillez réessayer."
+    },
+    "info": {
+      "email": "Email",
+      "location": "Localisation",
+      "availability": "Disponibilité",
+      "availableStatus": "Disponible pour nouveaux projets"
+    },
+    "social": {
+      "title": "Connectez-vous avec moi"
+    }
+  },
+  "footer": {
+    "rights": "Tous droits réservés",
+    "madeWith": "Fait avec",
+    "by": "par",
+    "links": {
+      "privacy": "Politique de Confidentialité",
+      "terms": "Conditions d'Utilisation"
+    }
+  },
+  "common": {
+    "loading": "Chargement...",
+    "error": "Erreur",
+    "notFound": "Non Trouvé",
+    "backHome": "Retour à l'Accueil",
+    "learnMore": "En Savoir Plus",
+    "viewAll": "Voir Tout",
+    "close": "Fermer",
+    "open": "Ouvrir",
+    "menu": "Menu",
+    "search": "Rechercher",
+    "language": "Langue",
+    "theme": "Thème"
+  },
+  "404": {
+    "title": "Page Non Trouvée",
+    "subtitle": "La page que vous cherchez n'existe pas ou a été déplacée.",
+    "cta": "Retour à l'Accueil"
+  },
+  "meta": {
+    "home": {
+      "title": "Agrest — Amirhossein Agrest",
+      "description": "Site officiel d'Amirhossein Agrest. Ingénieur logiciel créant des expériences numériques premium."
+    },
+    "about": {
+      "title": "À Propos — Agrest",
+      "description": "Découvrez Amirhossein Agrest, son parcours, ses valeurs et son expertise en développement logiciel."
+    },
+    "projects": {
+      "title": "Projets — Agrest",
+      "description": "Explorez les travaux sélectionnés et études de cas d'Amirhossein Agrest."
+    },
+    "contact": {
+      "title": "Contact — Agrest",
+      "description": "Contactez Amirhossein Agrest pour projets, collaborations ou questions."
+    }
+  },
+  "stats": {
+    "yearsExperience": "Années d’expérience ciblée",
+    "projectsCompleted": "Projets et systèmes réalisés",
+    "openSource": "Contributions open‑source",
+    "technologies": "Technologies"
+  },
+  "skills": {
+    "title": "Compétences & Technologies",
+    "categories": {
+      "frontend": "Frontend",
+      "backend": "Backend",
+      "mobile": "Mobile",
+      "database": "Base de Données",
+      "devops": "DevOps",
+      "design": "Design",
+      "tools": "Outils"
+    }
+  },
+  "philosophy": {
+    "title": "Philosophie",
+    "subtitle": "Mon approche du développement logiciel",
+    "principles": {
+      "title": "Principes Fondamentaux",
+      "clean": {
+        "title": "Code Propre",
+        "description": "Le code doit être lisible, maintenable et élégant. Chaque fonction, chaque module doit raconter une histoire claire."
+      },
+      "minimal": {
+        "title": "Minimalisme",
+        "description": "Moins c'est plus. Chaque élément doit avoir un but. La complexité est l'ennemie de la fiabilité."
+      },
+      "user": {
+        "title": "Centré Utilisateur",
+        "description": "La technologie doit servir les gens, pas l'inverse. La meilleure interface est celle qu'on ne remarque pas."
+      },
+      "continuous": {
+        "title": "Apprentissage Continu",
+        "description": "Restez curieux, apprenez, ne cessez jamais de grandir. Le monde tech évolue, nous aussi."
+      }
+    },
+    "quote": "Un excellent logiciel ne consiste pas seulement à écrire du code—c'est résoudre des problèmes avec élégance et créer des expériences qui enchantent."
+  },
+  "accessibility": {
+    "skipToContent": "Aller au contenu principal",
+    "openMenu": "Ouvrir le menu",
+    "closeMenu": "Fermer le menu",
+    "loading": "Chargement du contenu",
+    "error": "Une erreur s'est produite",
+    "previousSlide": "Diapositive précédente",
+    "nextSlide": "Diapositive suivante",
+    "openLightbox": "Ouvrir l'image complète",
+    "closeLightbox": "Fermer la lightbox"
+  },
+  "seo": {
+    "home": {
+      "title": "Agrest — Amirhossein Agrest | Ingénieur Logiciel",
+      "description": "Site officiel d'Amirhossein Agrest. Ingénieur logiciel créant des expériences numériques premium avec architecture propre et design élégant."
+    },
+    "about": {
+      "title": "À Propos — Amirhossein Agrest",
+      "description": "Découvrez Amirhossein Agrest, son parcours, ses valeurs, ses compétences et son expertise en développement logiciel et design."
+    },
+    "projects": {
+      "title": "Projets — Portfolio Agrest",
+      "description": "Explorez les travaux sélectionnés et études de cas d'Amirhossein Agrest. Applications web, apps mobiles et systèmes de design."
+    },
+    "blog": {
+      "title": "Blog — Agrest",
+      "description": "Réflexions, tutoriels et insights sur le développement logiciel, le design et la technologie par Amirhossein Agrest."
+    },
+    "contact": {
+      "title": "Contact — Me Contacter",
+      "description": "Contactez Amirhossein Agrest pour projets, collaborations ou questions. Disponible pour travail freelance."
+    }
+  }
+}

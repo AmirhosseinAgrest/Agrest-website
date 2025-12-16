@@ -1,0 +1,1 @@
+export { MotionText } from './MotionText';

@@ -1,0 +1,323 @@
+{
+    "brand": {
+        "name": "Agrest",
+        "tagline": "Premium. Minimal. Elegant.",
+        "description": "Amirhossein Agrest の公式個人サイト"
+    },
+    "nav": {
+        "home": "ホーム",
+        "about": "私について",
+        "projects": "プロジェクト",
+        "services": "サービス",
+        "blog": "ブログ",
+        "contact": "お問い合わせ",
+        "resume": "履歴書"
+    },
+    "hero": {
+        "greeting": "こんにちは、私は",
+        "name": "Amirhossein Agrest",
+        "title": "ソフトウェアエンジニア＆デザイナー",
+        "subtitle": "クリーンなアーキテクチャとエレガントなデザインでプレミアムなデジタル体験を作ります",
+        "cta": {
+            "primary": "作品を見る",
+            "secondary": "お問い合わせ"
+        },
+        "scroll": "スクロールして探索"
+    },
+    "about": {
+        "title": "私について",
+        "subtitle": "コードの背後にある物語",
+        "intro": "私はクリーンなコード、エレガントなアーキテクチャ、そして考え抜かれたデザインを愛する情熱的なソフトウェアエンジニアです。",
+        "story": {
+            "title": "私の物語",
+            "content": "ソフトウェア開発の多年の経験を通じて、機能的であるだけでなく、美しく直感的なデジタルプロダクトを作ることに専念してきました。"
+        },
+        "values": {
+            "title": "私の価値観",
+            "description": "私の仕事を導き、ソフトウェア開発へのアプローチを形作る原則です。",
+            "quality": {
+                "title": "品質第一",
+                "description": "すべてのコード行は注意と目的をもって書かれます"
+            },
+            "simplicity": {
+                "title": "シンプルさ",
+                "description": "複雑な問題には、エレガントでシンプルな解決がふさわしい"
+            },
+            "innovation": {
+                "title": "イノベーション",
+                "description": "常に新しい技術やアプローチを探求しています"
+            },
+            "collaboration": {
+                "title": "協働",
+                "description": "優れたプロダクトは優れたチームによって作られます"
+            }
+        },
+        "skills": {
+            "title": "スキルと専門知識",
+            "description": "アイデアを形にするために使用している技術とツールです。"
+        }
+    },
+    "experience": {
+        "title": "経験",
+        "subtitle": "私の職業的な歩み",
+        "present": "現在",
+        "years": "年",
+        "viewMore": "詳細を見る"
+    },
+    "projects": {
+        "title": "プロジェクト",
+        "subtitle": "選ばれた作品とケーススタディ",
+        "viewProject": "プロジェクトを見る",
+        "viewCode": "コードを見る",
+        "liveDemo": "ライブデモ",
+        "allProjects": "すべてのプロジェクト",
+        "categories": {
+            "all": "すべて",
+            "web": "Webアプリ",
+            "mobile": "モバイル",
+            "fullstack": "フルスタック",
+            "design": "デザイン",
+            "backend": "バックエンド"
+        },
+        "techStack": "使用技術",
+        "featured": "注目"
+    },
+    "services": {
+        "title": "サービス",
+        "subtitle": "私があなたのためにできること",
+        "cta": "一緒に仕事をしましょう",
+        "list": {
+            "development": {
+                "title": "Web開発",
+                "description": "最先端の技術で構築する、モダンで高速かつスケーラブルなWebアプリケーション"
+            },
+            "design": {
+                "title": "UI/UXデザイン",
+                "description": "ユーザーを喜ばせ、エンゲージメントを高める美しく直感的なインターフェース"
+            },
+            "consulting": {
+                "title": "技術コンサルティング",
+                "description": "アーキテクチャ、技術選定、ベストプラクティスに関する専門的なガイダンス"
+            },
+            "architecture": {
+                "title": "システムアーキテクチャ",
+                "description": "複雑なアプリケーションのためのスケーラブルで保守しやすいシステム設計"
+            }
+        }
+    },
+    "testimonials": {
+        "title": "推薦の声",
+        "subtitle": "クライアントと同僚からの評価",
+        "test-1": "Amirhossein は現代的なフロントエンドアーキテクチャを深く理解しています。クリーンコードと UI の一貫性へのこだわりにより、彼との仕事はとてもスムーズで心地よいものになります。",
+        "test-2": "彼はミニマルでエレガントなインターフェースを設計しつつ、コードベースをモジュール化しスケーラブルに保つ能力があり、非常に印象的です。Amirhossein はあらゆる課題に明確かつ正確に取り組みます。",
+        "test-3": "彼の成長は非常に速く、その努力を間近で見てきました。React、TypeScript、Tailwind を極めようとする姿勢は、彼のコンポーネントとデザインシステムの品質に表れています。",
+        "test-4": "Amirhossein は技術的な規律と美的感覚を兼ね備えた稀有な存在です。彼の UI システム構築のアプローチは非常に深く考えられており、将来を見据えています。",
+        "test-5": "彼は常にクリーンで読みやすいコードを提供し、ユーザー体験にも細心の注意を払っています。彼の仕事にはフロントエンドへの深い情熱が感じられます。",
+        "test-6": "Amirhossein は常に成長し、学び続け、より良い解決策を追求しています。品質へのこだわりが、彼を価値ある協力者にしています。"
+    },
+    "achievements": {
+        "title": "実績",
+        "subtitle": "認定と受賞",
+        "verified": "検証済み",
+        "viewCredential": "資格を見る"
+    },
+    "gallery": {
+        "title": "ギャラリー",
+        "subtitle": "作品のビジュアルショーケース",
+        "viewAll": "すべて表示"
+    },
+    "faq": {
+        "title": "よくある質問",
+        "subtitle": "よく寄せられる疑問とその回答",
+        "items": {
+            "availability": {
+                "question": "フリーランスの仕事は受け付けていますか？",
+                "answer": "はい、興味深いフリーランスのプロジェクトを受け付けています。ご要望についてぜひご連絡ください。"
+            },
+            "timeline": {
+                "question": "通常のプロジェクト期間はどのくらいですか？",
+                "answer": "プロジェクトの範囲によりますが、ほとんどのプロジェクトは開始から完了まで約4〜12週間かかります。"
+            },
+            "technologies": {
+                "question": "どのような技術を使っていますか？",
+                "answer": "主に React、TypeScript、Node.js、およびモダンな Web 技術を使用しています。常に新しいツールを学んでいます。"
+            },
+            "remote": {
+                "question": "リモートでの作業は可能ですか？",
+                "answer": "はい、世界中のクライアントと仕事をしています。タイムゾーンは優れたコラボレーションの障害にはなりません。"
+            }
+        }
+    },
+    "blog": {
+        "title": "ブログ",
+        "subtitle": "考察、チュートリアル、インサイト",
+        "readMore": "続きを読む",
+        "readTime": "分で読めます",
+        "allPosts": "すべての記事",
+        "categories": "カテゴリー",
+        "recentPosts": "最新の記事",
+        "noPosts": "記事が見つかりません"
+    },
+    "resume": {
+        "title": "履歴書",
+        "subtitle": "私の職務経歴",
+        "download": "PDFをダウンロード",
+        "print": "印刷",
+        "sections": {
+            "experience": "職務経験",
+            "education": "学歴",
+            "skills": "スキル",
+            "languages": "言語",
+            "certifications": "認定資格"
+        }
+    },
+    "contact": {
+        "title": "お問い合わせ",
+        "subtitle": "会話を始めましょう",
+        "intro": "プロジェクトの相談や挨拶だけでも構いません。ぜひお気軽にご連絡ください。",
+        "form": {
+            "name": "お名前",
+            "namePlaceholder": "John Doe",
+            "email": "メールアドレス",
+            "emailPlaceholder": "john@example.com",
+            "subject": "件名",
+            "subjectPlaceholder": "プロジェクト相談",
+            "message": "メッセージ",
+            "messagePlaceholder": "プロジェクトについて教えてください…",
+            "send": "メッセージを送信",
+            "sending": "送信中…",
+            "success": "メッセージが正常に送信されました！追ってご連絡いたします。",
+            "error": "エラーが発生しました。もう一度お試しください。"
+        },
+        "info": {
+            "email": "メール",
+            "location": "所在地",
+            "availability": "対応状況",
+            "availableStatus": "新規プロジェクト受付中"
+        },
+        "social": {
+            "title": "SNSでつながる"
+        }
+    },
+    "footer": {
+        "rights": "全著作権所有",
+        "madeWith": "使用技術",
+        "by": "制作",
+        "links": {
+            "privacy": "プライバシーポリシー",
+            "terms": "利用規約"
+        }
+    },
+    "common": {
+        "loading": "読み込み中…",
+        "error": "エラー",
+        "notFound": "見つかりません",
+        "backHome": "ホームに戻る",
+        "learnMore": "詳しく見る",
+        "viewAll": "すべて表示",
+        "close": "閉じる",
+        "open": "開く",
+        "menu": "メニュー",
+        "search": "検索",
+        "language": "言語",
+        "theme": "テーマ"
+    },
+    "404": {
+        "title": "ページが見つかりません",
+        "subtitle": "お探しのページは存在しないか、移動された可能性があります。",
+        "cta": "ホームに戻る"
+    },
+    "meta": {
+        "home": {
+            "title": "Agrest — Amirhossein Agrest",
+            "description": "Amirhossein Agrest の公式サイト。クリーンなアーキテクチャとエレガントなデザインでプレミアムなデジタル体験を創造します。"
+        },
+        "about": {
+            "title": "概要 — Agrest",
+            "description": "Amirhossein Agrest の経歴、価値観、ソフトウェア開発における専門性について紹介します。"
+        },
+        "projects": {
+            "title": "プロジェクト — Agrest",
+            "description": "Amirhossein Agrest による選りすぐりの作品とケーススタディをご覧ください。"
+        },
+        "contact": {
+            "title": "お問い合わせ — Agrest",
+            "description": "プロジェクト、コラボレーション、その他の相談について Amirhossein Agrest にご連絡ください。"
+        }
+    },
+    "stats": {
+        "yearsExperience": "集中した開発経験年数",
+        "projectsCompleted": "構築したプロジェクトとシステム",
+        "openSource": "オープンソース貢献",
+        "technologies": "技術"
+    },
+    "skills": {
+        "title": "スキルと技術",
+        "categories": {
+            "frontend": "フロントエンド",
+            "backend": "バックエンド",
+            "mobile": "モバイル",
+            "database": "データベース",
+            "devops": "DevOps",
+            "design": "デザイン",
+            "tools": "ツール"
+        }
+    },
+    "philosophy": {
+        "title": "哲学",
+        "subtitle": "ソフトウェア開発への私のアプローチ",
+        "principles": {
+            "title": "基本原則",
+            "clean": {
+                "title": "クリーンコード",
+                "description": "コードは読みやすく、保守しやすく、エレガントであるべきです。すべての関数・モジュールは明確なストーリーを語る必要があります。"
+            },
+            "minimal": {
+                "title": "ミニマリズム",
+                "description": "少ないほど良い。すべての要素には目的が必要です。複雑さは信頼性の敵です。"
+            },
+            "user": {
+                "title": "ユーザー中心",
+                "description": "技術は人のためにあるべきで、その逆ではありません。最良のインターフェースとは、意識せずに使えるものです。"
+            },
+            "continuous": {
+                "title": "継続的学習",
+                "description": "好奇心を持ち続け、学び続け、成長を止めないこと。技術の世界は進化し、私たちも進化すべきです。"
+            }
+        },
+        "quote": "優れたソフトウェアとは単にコードを書くことではなく、問題をエレガントに解決し、心地よい体験を生み出すことです。"
+    },
+    "accessibility": {
+        "skipToContent": "メインコンテンツへスキップ",
+        "openMenu": "メニューを開く",
+        "closeMenu": "メニューを閉じる",
+        "loading": "コンテンツを読み込み中",
+        "error": "エラーが発生しました",
+        "previousSlide": "前のスライド",
+        "nextSlide": "次のスライド",
+        "openLightbox": "画像を全画面で開く",
+        "closeLightbox": "ライトボックスを閉じる"
+    },
+    "seo": {
+        "home": {
+            "title": "Agrest — Amirhossein Agrest | ソフトウェアエンジニア",
+            "description": "Amirhossein Agrest の公式サイト。クリーンなアーキテクチャとエレガントなデザインでプレミアムなデジタル体験を創造します。"
+        },
+        "about": {
+            "title": "概要 — Amirhossein Agrest",
+            "description": "Amirhossein Agrest の経歴、価値観、スキル、開発・デザインの専門性について紹介します。"
+        },
+        "projects": {
+            "title": "プロジェクト — Agrest ポートフォリオ",
+            "description": "Amirhossein Agrest による選りすぐりの作品とケーススタディ。Webアプリ、モバイルアプリ、デザインシステムなど。"
+        },
+        "blog": {
+            "title": "ブログ — Agrest",
+            "description": "ソフトウェア開発、デザイン、テクノロジーに関する考察、チュートリアル、インサイトをお届けします。"
+        },
+        "contact": {
+            "title": "お問い合わせ — ご連絡はこちら",
+            "description": "プロジェクト、コラボレーション、相談などについて Amirhossein Agrest にご連絡ください。フリーランス案件も受付中です。"
+        }
+    }
+}

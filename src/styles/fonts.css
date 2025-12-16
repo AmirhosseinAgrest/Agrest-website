@@ -1,0 +1,78 @@
+
+.font-inter {
+  font-feature-settings:
+    'cv02' 1,
+    'cv03' 1,
+    'cv04' 1,
+    'cv11' 1,
+    'ss01' 1, 
+    'calt' 1; 
+}
+
+.font-vazir {
+  font-feature-settings:
+    'ss01' 1, 
+    'ss02' 1; 
+}
+
+.fonts-loading body {
+  font-family: system-ui, -apple-system, sans-serif;
+}
+
+.fonts-loaded body {
+  font-family: 'Inter', system-ui, sans-serif;
+}
+
+.fonts-loaded [dir='rtl'] body {
+  font-family: 'Vazirmatn', 'Inter', system-ui, sans-serif;
+}
+
+.display-text {
+  font-weight: 700;
+  letter-spacing: -0.03em;
+  line-height: 1.1;
+}
+
+.body-text {
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 1.625;
+}
+
+.small-text {
+  font-weight: 400;
+  letter-spacing: 0.01em;
+  line-height: 1.5;
+}
+
+.caption-text {
+  font-weight: 500;
+  letter-spacing: 0.02em;
+  line-height: 1.4;
+  text-transform: uppercase;
+}
+
+.tabular-nums {
+  font-variant-numeric: tabular-nums;
+}
+
+.oldstyle-nums {
+  font-variant-numeric: oldstyle-nums;
+}
+
+.proportional-nums {
+  font-variant-numeric: proportional-nums;
+}
+
+[dir='rtl'] {
+  line-height: 1.8;
+
+  .persian-nums {
+    font-feature-settings: 'ss02' 1;
+  }
+
+  .kashida {
+    text-align: justify;
+    text-justify: kashida;
+  }
+}

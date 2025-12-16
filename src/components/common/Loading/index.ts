@@ -1,0 +1,1 @@
+export { Loading, PageLoading } from './Loading';
